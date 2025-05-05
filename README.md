@@ -1,5 +1,8 @@
 # Как должны выглядеть ИТ курсы по мнению AI
 
 ### Список курсов, которые здесь есть
-- DevOps (Junior > Middle)
-- GitOps
+- IT
+    - DevOps (Junior > Middle)
+    - GitOps
+- Crypto
+    - Solana (От Нуля до Миллиона на ранних проектах)
