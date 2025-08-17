@@ -1,14 +1,16 @@
 # Как должны выглядеть ИТ курсы по мнению AI
 
 ### Список курсов, которые здесь есть
-- DevOps (Junior > Middle)
-- GitOps
-- Chroot
-- Terraform
-- CI/CD
-- Ansible
-- ArgoCD
+- [DevOps (Junior > Middle)](./devops/)
+- [GitOps](./gitops/)
+- [Chroot](./chroot/)
+- [Terraform](./terraform/)
+- [CI/CD](./ci_cd/)
+- [Ansible](./ansible/)
+- [ArgoCD](./argo_cd/)
+- [Kubernetes](./kubernetes/)
+    - [Datastore Ceph RBD](./kubernetes/ceph_rdb/)
 
 ### Промпт:
-Напиши курс по <ТЕМА> в формате MD с четкими примерами задач, которые мы решаем и командами-методичками.
+Напиши подробный курс по <ТЕМА> в формате MD с четкими примерами задач которые мы решаем, разборами нюансов, лучшими и плохими практиками, а также командами-методичками.
 Раздели на темы, если уместно, т.е. на разные md файлы.
