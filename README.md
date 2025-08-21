@@ -11,6 +11,9 @@
 - [Kubernetes](./kubernetes/)
     - [Datastore Ceph RBD](./kubernetes/ceph_rdb/)
     - [Datastore CephFS](./kubernetes/ceph_fs/)
+- [Container Security](./container_security/)
+    - [Docker](./container_security/docker)
+    - [Kubernetes](./container_security/kubernetes)
 
 ### Промпт:
 Напиши подробный курс по <ТЕМА> в формате MD с четкими примерами задач которые мы решаем, разборами нюансов, лучшими и плохими практиками, а также командами-методичками.
